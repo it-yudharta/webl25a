@@ -19,7 +19,8 @@
 		{
 			"binding": "DB",
 			"database_name": "mini-pos-db",
-			"database_id": "27870b6c-3ba3-46e6-b2b9-e966407475b9"
+			"database_id": "27870b6c-3ba3-46e6-b2b9-e966407475b9",
+			"migrations_dir": "./drizzle"
 		}
 	]
 }
